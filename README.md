@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cugbjing
-- 👀 I’m interested in Web Developing / Machine Learning
-- 🌱 I’m currently learning JS/python
+- 👀 I’m interested in Web Developing / Full Stack Engineering
+- 🌱 I’m currently learning JS/Python/React/AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
